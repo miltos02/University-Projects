@@ -1,0 +1,73 @@
+EXPENSE_TYPE_LIST
+{
+ 	EXPENSE_TYPE
+	{
+		TYPE 1
+ 		CODE 17890
+ 		DECSR "Highlighters"
+		MAXCOMP 10
+		PPU 1.59
+		UNIT "units"
+ 	}
+ 	EXPENSE_TYPE
+ 	{
+ 		TYPE 1
+ 		CODE 10025
+		DECSR "Uniform"	
+		MAXCOMP 100
+		PPU 50
+		UNIT "units"
+ 	}
+	 EXPENSE_TYPE
+ 	{
+		TYPE 1
+		CODE 13785
+		DECSR "Manual"
+		MAXCOMP 300
+		PPU 70
+		UNIT "units"
+ 	}
+	EXPENSE_TYPE
+ 	{
+		TYPE 1
+		CODE 14729
+		DECSR "Diet"
+		MAXCOMP 100
+		PPU 30
+		UNIT "day"
+ 	}
+	EXPENSE_TYPE
+ 	{
+		TYPE 1
+		CODE 10026
+		DECSR "Travel"
+		MAXCOMP 100
+		PPU 1.5
+		UNIT "km"
+ 	}
+	EXPENSE_TYPE
+ 	{
+		TYPE 2
+		CODE 13048
+		DECSR "Taxi"
+		MAXCOMP 50
+		PERC 0.8
+ 	}
+	EXPENSE_TYPE
+	{
+		TYPE 2
+		CODE 12903
+		DECSR "Hotel"
+		MAXCOMP 500
+		PERC 0.8
+	}
+	EXPENSE_TYPE
+ 	{
+		TYPE 2
+		CODE 19002
+		DECSR "Trip"
+		MAXCOMP 1000
+		PERC 0.9
+ 	}
+	
+}

@@ -1,0 +1,6 @@
+<ΧΑΡΑΛΑΜΠΟΣ ΚΑΡΑΚΩΣΤΑΣ>-<3200065>
+<ΜΙΛΤΙΑΔΗΣ ΤΣΟΛΚΑΣ>-<3200213>
+Endpoint:<server3200065-3200213.postgres.database.azure.com>
+Username:<examiner@server3200065-3200213>
+Password:<3200065_3200213>
+Database:<postgres>

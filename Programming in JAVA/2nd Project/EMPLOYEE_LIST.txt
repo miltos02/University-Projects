@@ -1,0 +1,38 @@
+EMPLOYEE_LIST
+{
+ 	EMPLOYEE
+ 	{
+ 		CODE 20098
+ 		SURNAME "Mancho"
+ 		FIRSTNAME "Alviona"
+ 		MAX_MONTHLY_VAL 1000
+ 	}
+ 	EMPLOYEE
+ 	{
+ 		CODE 20567
+ 		SURNAME "Tsolkas"
+ 		FIRSTNAME "Miltos"
+ 		MAX_MONTHLY_VAL 830	
+ 	}
+	EMPLOYEE
+ 	{
+ 		CODE 29041
+ 		SURNAME "Mpalampanh"
+ 		FIRSTNAME "Marlen"
+ 		MAX_MONTHLY_VAL 650	
+ 	}
+	EMPLOYEE
+ 	{
+ 		CODE 25310
+ 		SURNAME "Goniotakhs"
+ 		FIRSTNAME "Kwstas"
+ 		MAX_MONTHLY_VAL 960	
+ 	}
+	EMPLOYEE
+ 	{
+ 		CODE 21705
+ 		SURNAME "Papadopoulos"
+ 		FIRSTNAME "Spyros"
+ 		MAX_MONTHLY_VAL 200	
+ 	}
+}
